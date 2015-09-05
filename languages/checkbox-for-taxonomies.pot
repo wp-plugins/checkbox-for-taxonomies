@@ -2,11 +2,11 @@
 # This file is distributed under the same license as the Checkbox for Taxonomies package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Checkbox for Taxonomies 1.0\n"
+"Project-Id-Version: Checkbox for Taxonomies 1.1\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/checkbox-for-"
 "taxonomies\n"
-"POT-Creation-Date: 2015-07-04 19:45+0330\n"
-"PO-Revision-Date: 2015-07-04 19:45+0330\n"
+"POT-Creation-Date: 2015-09-06 01:53+0330\n"
+"PO-Revision-Date: 2015-09-06 01:53+0330\n"
 "Last-Translator: Ghaem Omidi <ghaemomidi@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
@@ -27,11 +27,11 @@ msgid "Cheatin&#8217; huh?"
 msgstr ""
 
 #: ../checkbox-for-taxonomies.php:197
-msgid "checkbox for Taxonomies Options Page"
+msgid "Checkbox for Taxonomies Options Page"
 msgstr ""
 
-#: ../checkbox-for-taxonomies.php:197
-msgid "checkbox for Taxonomies"
+#: ../checkbox-for-taxonomies.php:197 ../inc/plugin-options.php:10
+msgid "Checkbox for Taxonomies"
 msgstr ""
 
 #: ../checkbox-for-taxonomies.php:262
@@ -51,10 +51,6 @@ msgstr ""
 #: ../inc/class.WordPress_checkbox_Taxonomy.php:258
 #, php-format
 msgid "No %s"
-msgstr ""
-
-#: ../inc/plugin-options.php:10
-msgid "Checkbox for Taxonomies"
 msgstr ""
 
 #: ../inc/plugin-options.php:18

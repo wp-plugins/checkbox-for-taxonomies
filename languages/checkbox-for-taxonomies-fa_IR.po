@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Checkbox for Taxonomies\n"
-"POT-Creation-Date: 2015-07-04 19:43+0330\n"
-"PO-Revision-Date: 2015-07-04 19:43+0330\n"
+"POT-Creation-Date: 2015-09-06 01:53+0330\n"
+"PO-Revision-Date: 2015-09-06 01:53+0330\n"
 "Last-Translator: Ghaem Omidi <ghaemomidi@yahoo.com>\n"
 "Language-Team: Ghaem Omidi <ghaemomidi@yahoo.com>\n"
 "Language: fa_IR\n"
@@ -23,11 +23,11 @@ msgid "Cheatin&#8217; huh?"
 msgstr "می خوای تقلب کنی؟ :)"
 
 #: checkbox-for-taxonomies.php:197
-msgid "checkbox for Taxonomies Options Page"
+msgid "Checkbox for Taxonomies Options Page"
 msgstr "تنظیمات افزونه"
 
-#: checkbox-for-taxonomies.php:197
-msgid "checkbox for Taxonomies"
+#: checkbox-for-taxonomies.php:197 inc/plugin-options.php:10
+msgid "Checkbox for Taxonomies"
 msgstr "تبدیل طبقه بندی ها به چک باکس"
 
 #: checkbox-for-taxonomies.php:262
@@ -49,10 +49,6 @@ msgstr "+ %s"
 msgid "No %s"
 msgstr "بدون %s"
 
-#: inc/plugin-options.php:10
-msgid "Checkbox for Taxonomies"
-msgstr "تبدیل طبقه بندی ها به چک باکس"
-
 #: inc/plugin-options.php:18
 msgid "Select taxonomies to convert to checkbox"
 msgstr "طبقه بندی ها را برای تبدیل به چک باکس انتخاب کنید:"
@@ -68,3 +64,6 @@ msgstr "با حذف افزونه تنظیمات به طور کامل حذف شو
 #: inc/plugin-options.php:62
 msgid "Save Changes"
 msgstr "ذخیره ی تغییرات"
+
+#~ msgid "checkbox for Taxonomies"
+#~ msgstr "تبدیل طبقه بندی ها به چک باکس"
