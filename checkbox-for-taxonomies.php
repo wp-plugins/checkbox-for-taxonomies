@@ -2,7 +2,7 @@
 /*
 Plugin Name: Checkbox for Taxonomies
 Plugin URI: http://wordpress.org/plugins/checkbox-for-taxonomies
-Description: Use checkbox for any taxonomy so users can only select 1 term at a time
+Description: Use checkbox for any taxonomy.
 Version: 1.1
 Text Domain: checkbox-for-taxonomies
 Author: Kathy Darling, Ghaem Omidi
